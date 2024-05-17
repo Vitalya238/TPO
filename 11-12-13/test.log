@@ -1,0 +1,9 @@
+2024-05-17 21:50:51,313 - TestLogger - INFO - Test Passed.
+2024-05-17 21:51:02,923 - TestLogger - INFO - Test Passed.
+2024-05-17 21:52:08,456 - TestLogger - INFO - Test Passed.
+2024-05-17 21:52:50,434 - TestLogger - INFO - Test Passed.
+2024-05-17 21:53:05,426 - TestLogger - ERROR - Test Failed: pytest: reading from stdin while output is captured!  Consider using `-s`.
+2024-05-17 21:53:19,440 - TestLogger - ERROR - Test Failed: pytest: reading from stdin while output is captured!  Consider using `-s`.
+2024-05-17 21:53:41,911 - TestLogger - INFO - Test Passed.
+2024-05-17 21:54:11,089 - TestLogger - ERROR - Test Failed: Message: 
+
